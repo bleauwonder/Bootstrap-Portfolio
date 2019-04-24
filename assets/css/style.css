@@ -25,3 +25,8 @@ body {
         background-image: url(../../assets/white-waves/white-waves.png);
      margin: auto; 
 }
+
+footer {
+   
+    border-top : 8px solid #4aaaa5;
+}
